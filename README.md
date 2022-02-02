@@ -1,4 +1,4 @@
-<img src="<a href="https://app.daily.dev/pratik2542"><img src="https://api.daily.dev/devcards/0e2423ee4df14e04903d3e4dbc39e7c0.png?r=63t" width="400" alt="PRATIKSINH MAKWANA's Dev Card"/></a>">
+<a href="https://app.daily.dev/pratik2542"><img src="https://api.daily.dev/devcards/0e2423ee4df14e04903d3e4dbc39e7c0.png?r=63t" width="400" alt="PRATIKSINH MAKWANA's Dev Card"/></a>"
 
 
 - 👋 Hi, I’m @pratik2542
